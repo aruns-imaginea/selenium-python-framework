@@ -1,0 +1,11 @@
+{
+	"test1":{
+		"searchinput":"Nokia"
+	},
+	"test2":{
+		"searchinput":"Samsung"
+	},
+	"test3":{
+		"searchinput":"Apple"
+	}
+}
