@@ -22,7 +22,7 @@ class TestSearch():
             sr = Searchresults(self.driver)
             sr.get_searchresults()
 
-            #creating Utils object
+            #creating Utilities object
             ut = Utils()
 
             # get all titles from the search results page
